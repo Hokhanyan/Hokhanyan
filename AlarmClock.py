@@ -17,5 +17,5 @@ while True:
             if(alarm_minute==current_minute):
                 if(alarm_seconds==current_seconds):
                     print("Wake up!")
-                    playsound("/home/khachatur/Desctop/Kristina-Garmi (hamshen).mp3")
+                    playsound("/home/song.mp3")
                     break
